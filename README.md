@@ -14,7 +14,8 @@ Code is available as python scripts in the following directory, as well as the r
 ### Convert Resumes to CSV training data format
 * CVs need to exist in a directory according to their label (Good/Maybe/Bad) and this path is provided inside the ResFileToCsv.py
 * The script produces a log of all CV files processed as well as errors
-* The script produces a single csv file containing CV text and label
+* The script produces a single csv file containing CV text and label <br>
+
 NOTE: The script accepts only pdf and docx documents.
 
 
@@ -26,5 +27,7 @@ NOTE: The script accepts only pdf and docx documents.
 ### Classify a Resume
 1. Train a model using the process described above
 2. Call demo.py providing the CV file path and the txt paths (e.g. python3 demo.py resume.pdf skills.txt companies.txt universities.txt)
-3. Obtain candidate scores and predicted label
+3. Obtain candidate scores and predicted label <br>
+
+NOTE: The script accepts only pdf and docx documents.
 
