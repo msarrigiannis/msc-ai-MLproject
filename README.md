@@ -1,5 +1,4 @@
-# msc-ai-MLproject
-## Marios Sarrigiannis
+# Machine Learning Project by Marios Sarrigiannis (mtn2116)
 
 The aim of this project was to create an automated/cross-domain resume screening system. The system classifies resumes as Good/Maybe/Bad.
 
