@@ -1,0 +1,16 @@
+Javascript
+JS
+HTML
+CSS
+React.js
+Angular.js
+Angular
+React
+Vue.js
+Vue
+SOLID
+KISS
+YAGNI
+Algorithms
+Git
+Design Patterns

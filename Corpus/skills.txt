@@ -1,0 +1,20 @@
+Javascript
+JS
+C#
+HTML
+CSS
+.Net
+React.js
+ASP.Net
+ASP.Net Core
+Entity Framework
+MVC
+SOLID
+KISS
+YAGNI
+Algorithms
+Git
+Object Oriented Programming
+Unit Testing
+NUnit
+Design Patterns
